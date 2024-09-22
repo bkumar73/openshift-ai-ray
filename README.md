@@ -1,3 +1,5 @@
+# This repository is deprecated and merged to [AI on OpenShit](https://ai-on-openshift.io) site. 
+
 # Introduction
 
 This repository contains examples for using [Kueue](https://kueue.sigs.k8s.io/) and [Kube Ray](https://docs.ray.io/en/latest/cluster/kubernetes/index.html) on OpenShift AI.

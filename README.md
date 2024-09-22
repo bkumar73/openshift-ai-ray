@@ -1,4 +1,4 @@
-# This repository is deprecated and merged to [AI on OpenShit](https://ai-on-openshift.io) site. 
+# This repository is deprecated and merged to [AI on OpenShift](https://ai-on-openshift.io) site. 
 
 # Introduction
 
